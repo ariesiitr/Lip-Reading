@@ -27,7 +27,7 @@ Lipreading helps people understand more speech by watching for and identifying m
 	* To setup AWS instance, first upload the data into an S3 bucket, then use Setup.ipynb for setting up and unzipping the data for further use.
 	The directory will look like the below picture with additional files about which more description is given in the lower section.
 
-![assets](https://github.com/parthchhabra0611/LIP-Reading-IITR/blob/main/directory.jpg)	
+![assets](https://github.com/ariesiitr/Lip-Reading/blob/main/directory.jpg)	
 	 
 
 
