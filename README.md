@@ -60,7 +60,7 @@ This data requires audio preprocessing. For alignment of audio files to the vide
 	* Validation accuracy : 46.15%
 	* Test accuracy : 25%
 * GRID  - Metric for evaluation was Word Error Rate (WER)
-	* ![assets2](https://github.com/parthchhabra0611/LIP-Reading-IITR/blob/main/wer_img.jpg)	
+	* ![assets2](https://github.com/ariesiitr/Lip-Reading/blob/main/wer_img.jpg)	
     * Training WER : 22.76%
     * Validation WER : 38.21%
     * Test WER : 50.42%
